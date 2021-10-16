@@ -1,0 +1,12 @@
+{
+    "name": "fajar/belajar-php-unit-test",
+    "description": "belajar php unit test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Cahyo Fajar Pamungkas",
+            "email": "cahyofajar28@gmail.com"
+        }
+    ],
+    "require": {}
+}
